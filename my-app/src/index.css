@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+  font-family: "Aclonica";
+  src: url('./Font/Aclonica/Aclonica-Regular.ttf');
+}
+@font-face {
+  font-family: "Allura";
+  src: url('./Font/Allura/Allura-Regular.ttf');
+}
